@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+57
+"Por favor ingresar tres valores para resolver ax^2+bx+c"
+5
+1
+7
+a, b, c
+6
+2
+2
+x1
+30
+(-b+(b*b-4*a*c)^(1/2)) / (2*a)
+2
+x2
+30
+(-b-(b*b-4*a*c)^(1/2)) / (2*a)
+4
+1
+50
+" x1 es igual a " , x1,   " y x2 es igual a " , x2
+1
