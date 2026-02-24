@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+43
+"por favor ingresar la base del rectangulo"
+5
+1
+1
+b
+4
+1
+45
+"por favor ingresar la altura del rectangulo"
+5
+1
+1
+h
+6
+1
+1
+a
+4
+b*h 
+4
+1
+58
+"el area del rectangulo es de ", a, " centimetros cubicos"
+1
